@@ -34,4 +34,4 @@ Contribuições são bem-vindas! Sinta-se à vontade para abrir uma *issue* ou e
 
 ## License
 
-[![Licence](https://img.shields.io/github/license/Ileriayo/markdown-badges?style=for-the-badge)](./LICENSE)
+[![Licence](https://img.shields.io/github/license/Ileriayo/markdown-badges?style=for-the-badge)](./LICENCE)
