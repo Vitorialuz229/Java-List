@@ -18,6 +18,10 @@ O curso cobre os fundamentos da linguagem Java, incluindo:
 - Métodos
 - Entre outros conceitos fundamentais de programação.
 
+## Principais Pontos de Funcionalidade
+- Resolução de exercícios do curso Java Básico da Loiane Groner
+- Exercícios abrangendo diversos tópicos fundamentais de programação em Java
+
 ## Contribuições
 
 Contribuições são bem-vindas! Sinta-se à vontade para abrir uma *issue* ou enviar um *pull request*.
