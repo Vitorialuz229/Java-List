@@ -27,7 +27,3 @@ Contribuições são bem-vindas! Sinta-se à vontade para abrir uma *issue* ou e
 - **Nome:** Vitória Luz 
 - **Email:** vitorialuz831@gmail.com
 - **LinkedIn:** [Seu LinkedIn](https://www.linkedin.com/in/vit%C3%B3ria-luz-alves-d%E2%80%99-abadia-600573239/)
-
-## Licença
-
-Este projeto está licenciado sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
