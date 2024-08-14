@@ -15,5 +15,7 @@ public class Question02 {
                               System.out.println("Número Positivo");
 
                     }
+                    scan.close();
+
           }
 }

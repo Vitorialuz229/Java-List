@@ -25,6 +25,7 @@ public class Question13 {
                     } else { 
                               System.out.println("Valor inválido");      
                     }
+                    scan.close();
 
           }
 }

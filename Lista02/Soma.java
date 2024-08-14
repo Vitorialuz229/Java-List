@@ -18,6 +18,7 @@ public class Soma {
                     int resultado = num1 + num2; 
 
                     System.out.println("A soma dos resultados" + resultado);
+                    scan.close();
 
           }
           

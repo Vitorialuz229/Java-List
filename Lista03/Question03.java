@@ -67,5 +67,7 @@ public class Question03 {
         System.out.println("Salário: " + salario);
         System.out.println("Sexo: " + sexo);
         System.out.println("Estado Civil: " + civil);
+        scan.close();
+
     }
 }

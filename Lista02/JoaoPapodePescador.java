@@ -14,5 +14,7 @@ public class JoaoPapodePescador {
                   multa = pesoExcedente * 4.00;       
         } 
         System.out.println("Multa a ser paga: R$" + multa);
+        scan.close();
+
     }      
 }

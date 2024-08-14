@@ -26,5 +26,7 @@ public class Question15 {
                 } else {
                     System.out.println("Os lados fornecidos não formam um triângulo válido.");
                 }
+                scan.close();
+
             }
         }

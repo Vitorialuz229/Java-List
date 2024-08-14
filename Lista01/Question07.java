@@ -53,6 +53,7 @@ public class Question07 {
 
                     System.out.println("O maior número é: " + maior);
                     System.out.println("O menor número é: " + menor);
+                    scan.close();
 
           }
 }

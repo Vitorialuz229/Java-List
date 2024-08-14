@@ -21,6 +21,7 @@ public class NotasBimestrais {
                     double media = (nota1 + nota2 + nota3 + nota4)/4;
                     
                     System.out.println("A Média do bimestre " + media);
+                    scan.close();
 
           }
 }         

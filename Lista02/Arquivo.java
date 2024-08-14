@@ -14,5 +14,7 @@ public class Arquivo {
                     double tempo = arquivo / velocidade; 
 
         System.out.println("O tempo aproximado de download é de " + tempo);
+        scan.close();
+
     }
 }

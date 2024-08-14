@@ -17,6 +17,7 @@ public class AreaQuadrado {
 
           System.out.println("O valor da área: " + area);
           System.out.println("O valor da área ao dobro: " + (area * 2));
+          scan.close();
 
          } 
 }

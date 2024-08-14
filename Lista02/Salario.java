@@ -17,5 +17,6 @@ public class Salario {
           double salario =  valorHora * horas; 
 
           System.out.println("O valor total do seu salário: " + salario);
-         } 
+          scan.close();       
+          } 
 }

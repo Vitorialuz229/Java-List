@@ -19,5 +19,7 @@ public class Question10 {
                 } else {
                     System.out.println("Valor Inválido");
                 }
+                scan.close();
+
             }
         }

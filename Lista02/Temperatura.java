@@ -15,6 +15,7 @@ public class Temperatura {
                     double temperaturaCelsius = (5* (temperaturaFarenheit - 32)/9);
 
                     System.out.println("O valor da temperatura em Celsius: " + temperaturaCelsius);
+                    scan.close();
 
           }
           

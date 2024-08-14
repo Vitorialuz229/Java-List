@@ -32,5 +32,7 @@ public class Question14 {
                 } else {
                     System.out.println("REPROVADO");
                 }
+                scan.close();
+
           }
 }

@@ -40,5 +40,7 @@ public class Question12 {
           System.out.println("Total de descontos: " + descontos);
           System.out.println("Salário Liquido: " + salarioLiquido);
 
+          scan.close();
+
        }   
 }

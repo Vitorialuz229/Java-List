@@ -15,5 +15,7 @@ public class Tintas {
           
           System.out.println("Quantidade de latas de tinta a serem compradas " + qtdLatas);
           System.out.println("Preço das latas de tinta " + precoTotal);
+          scan.close();
+
      }     
 }

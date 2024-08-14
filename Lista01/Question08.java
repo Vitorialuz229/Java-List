@@ -25,5 +25,7 @@ public class Question08 {
         }
 
         System.out.println("Você deve comprar o produto que custa " + produtoMaisBarato);
+        scan.close();
+
     }
 }

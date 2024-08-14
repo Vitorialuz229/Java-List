@@ -9,6 +9,7 @@ public class Question04 {
                System.out.println("População do país A:");
                int populacaoA = scan.nextInt();
 
-               
+               scan.close();
+ 
           }
 }

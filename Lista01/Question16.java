@@ -30,6 +30,8 @@ public class Question16 {
                               } else {
                                         System.out.println("A equação não possui raízes reais.");
                               }
+                              scan.close();
+
                     }
           }
 

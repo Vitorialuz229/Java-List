@@ -53,7 +53,8 @@ public class Question09 {
            //num1 é maior
            // num3 < num2 < num1
            System.out.println(num1 + " - " + num2 + " - " + num3);
-           
+           scan.close();
+
        }
    }
 }

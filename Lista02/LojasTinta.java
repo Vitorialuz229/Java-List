@@ -41,5 +41,7 @@ public class LojasTinta {
         System.out.println("Quantidade de latas restantes: " + qtdLatasRestantes);
         System.out.println("Quantidade de galões restantes: " + qtdGaloesRestantes);
         System.out.println("Preço total: R$" + precoTotalMisto);
+        scan.close();
+
     }
 }

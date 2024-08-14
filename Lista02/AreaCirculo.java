@@ -15,7 +15,9 @@ public class AreaCirculo {
          double area = Math.PI * Math.pow(raio, 2);
          
          System.out.println("O valor da area é = " + area);
-   }
+         scan.close();
+
+      }
 }
           
 

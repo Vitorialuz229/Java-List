@@ -29,6 +29,7 @@ public class Question01 {
                                         System.out.println("Nota inválida, digite novamente");     
                               }
                     } while(!notaValida);
+                    scan.close();
 
           }
 }

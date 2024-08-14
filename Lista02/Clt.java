@@ -26,6 +26,7 @@ public class Clt {
           System.out.println("O valor total pago para o IR: " + IR);
           System.out.println("O valor total de desconto: " + totalDesconto);
           System.out.println("O valor total do seu salário: " + salarioLiquido);
-          
+          scan.close();
+
          } 
 }

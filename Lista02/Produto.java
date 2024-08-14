@@ -27,6 +27,8 @@ public class Produto {
 
                     double Cubo = Math.pow(numberReal, 3);
                     System.out.println("O terceiro número ao cubo é " + Cubo);
+                    scan.close();
+
           }
 
 }

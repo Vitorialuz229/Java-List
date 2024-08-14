@@ -22,5 +22,7 @@ public class Question04 {
             default:
                 System.out.println("A letra digitada é uma consoante.");
         }
+        scan.close();
+
     }
 }

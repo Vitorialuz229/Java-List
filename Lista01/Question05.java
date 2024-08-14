@@ -28,5 +28,7 @@ public class Question05 {
           } else { 
                     System.out.println("Reprovado");
           }
+          scan.close();
+
       }    
 }

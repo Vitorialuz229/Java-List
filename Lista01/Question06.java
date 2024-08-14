@@ -35,5 +35,7 @@ public class Question06 {
                 }
         
                 System.out.println("O maior número é: " + maior);
+                scan.close();
+
             }
         }

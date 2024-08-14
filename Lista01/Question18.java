@@ -22,6 +22,8 @@ public class Question18 {
         } else {
             System.out.println("Data Inválida");
         }
+        scan.close();
+
     }
 
     public static boolean validarData(int dia, int mes, int ano) {

@@ -18,5 +18,7 @@ public class Question17 {
           } else { 
                     System.out.println(" Não é Bissexto");     
           }
+          scan.close();
+
       }    
 }

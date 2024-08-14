@@ -40,5 +40,7 @@ public class Question11 {
         System.out.println("O valor do aumento: " + aumento); 
         System.out.println("O novo salário, após o aumento: " + novo_salario);
 
+        scan.close();
+
     }      
 }

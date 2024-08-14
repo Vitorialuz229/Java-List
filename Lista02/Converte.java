@@ -15,6 +15,7 @@ public class Converte {
 
                     System.out.println("Conversão: " + centimetros);
 
+                    scan.close();
 
           }
 }

@@ -18,6 +18,8 @@ public class Question03 {
                     } else { 
                               System.out.println("Sexo Inválido");
                     }
+                    scan.close();
+
           }
          
 
