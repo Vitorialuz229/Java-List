@@ -32,5 +32,6 @@ Contribuições são bem-vindas! Sinta-se à vontade para abrir uma *issue* ou e
 - **Email:** vitorialuz831@gmail.com
 - **LinkedIn:** [Meu Linkedin](https://www.linkedin.com/in/vit%C3%B3ria-luz-alves-d%E2%80%99-abadia-600573239/)
 
-## Licença
-  MIT
+## License
+
+[![Licence](https://img.shields.io/github/license/Ileriayo/markdown-badges?style=for-the-badge)](./LICENSE)
